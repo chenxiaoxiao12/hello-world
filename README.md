@@ -1,2 +1,3 @@
 # hello-world
-just as example
+just as examples
+and just as study
